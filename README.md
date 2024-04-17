@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Salih Eren Yüzbaşıoğlu a sophomore student in Hacettepe University as a computer engineering student.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saliherenyzb&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saliherenyzb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
