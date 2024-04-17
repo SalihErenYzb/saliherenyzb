@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Salih+Eren+Y%C3%BCzba%C5%9F%C4%B1o%C4%9Flu+;A+sophomore+student+in+Hacettepe+University++as+a+computer+engineering+student;My+primary+areas+of+interest+lie+in+machine+NLP+and+algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Salih+Eren+Y%C3%BCzba%C5%9F%C4%B1o%C4%9Flu+;A+sophomore+student+in+Hacettepe+University++as+a+computer+engineering+student;My+primary+areas+of+interest+lie+in+NLP+and+algorithms)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saliherenyzb&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
