@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saliherenyzb&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saliherenyzb&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saliherenyzb&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=DataGlacierInternship)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SalihErenYzb/saliherenyzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
