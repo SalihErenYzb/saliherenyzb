@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saliherenyzb&layout=compact&theme=dark&size_weight=0.3&count_weight=0.7&exclude_repo=DataGlacierInternship&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/algosalih)](https://leetcode.com/algosalih)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/algosalih?ext=heatmap)](https://leetcode.com/algosalih)
 
 <!--
 **SalihErenYzb/saliherenyzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
